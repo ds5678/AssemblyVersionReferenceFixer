@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AssemblyVersionReferenceFixer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Jeremy\\source\\repos\\AssetRipper\\Source\\Libraries\\AssetRipper.SourceGenerated.dll\""
+    }
+  }
+}
